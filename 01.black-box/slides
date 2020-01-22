@@ -1,0 +1,42 @@
+//https://davidrosenberg.github.io/mlcourse/Archive/2017Fall/Lectures/01.black-box-ML.pdf
+
+canonical  n.典范
+regression n.回归
+sophisticated adj.复杂的
+intensive adj.密集型的
+
+
+
+1.What is machine learning for?
+To solve prediction problems by finding the best prediction function.
+
+1)binary classification problem
+spam email or not
+2)multiclass classification problem
+medical diagnosis
+3)regression problem(the out put is a num)
+predicting a stock price
+
+
+
+2.What is machine learning?
+Given input data, find the best prediction function.
+1)What isn't ML
+rule-based approaches
+
+1)supervised learning
+
+questions
+1)What are the most common ML problem types?
+binary classification problem
+multiclass classification problem
+regression problem
+2)What is prediction function?
+predicts output y given input x
+3)What is training data?
+a set of pairs containing input x and output y
+4)What is supervised learning algorithm?
+takes training data and produces a prediction function
+
+
+
