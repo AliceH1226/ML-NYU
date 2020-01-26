@@ -39,4 +39,25 @@ a set of pairs containing input x and output y
 takes training data and produces a prediction function
 
 
+one-hot encoding 一键编码
+datum 数据
+deploy 调动
+intern 实习生
+subtle 巧妙的
+
+The Loss Function
+A loss function scores how far off a prediction is from the desired "target" output
+Classic Loss Function
+classification loss or 0/1 loss:1 wrong 0 true
+square loss for regression:loss=(predicted-target)^2
+
+.8 training
+.2 test
+
+seanario n.可能发生的事情
+
+
+
+
+
 
